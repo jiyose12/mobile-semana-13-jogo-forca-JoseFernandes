@@ -1,6 +1,5 @@
 # mobile-semana-13-jogo-forca-JoseFernandes
 # Jogo da Forca
-Foto
 
 # DESCRIÇÃO GERAL
 Escreva uma aplicação iOS, em Swift, para concluir o “Jogo da Forca” desenvolvido na aula1 do dia
